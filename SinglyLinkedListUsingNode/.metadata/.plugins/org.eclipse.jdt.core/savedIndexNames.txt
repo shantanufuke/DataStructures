@@ -1,6 +1,0 @@
-INDEX VERSION 1.134+/Users/shantanufuke/JavaProgramming/DataStructures/SinglyLinkedListUsingNode/.metadata/.plugins/org.eclipse.jdt.core
-2876580738.index
-2860272191.index
-2471896907.index
-2211400586.index
-1865797976.index
